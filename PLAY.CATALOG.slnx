@@ -1,5 +1,5 @@
 <Solution>
-  <Folder Name="/src/">
-    <Project Path="src/Play.Catalog.Services/Play.Catalog.Services.csproj" />
+  <Folder Name="/src/Play.Catalog.Service/">
+    <Project Path="src/Play.Catalog.Service/Play.Catalog.Service.csproj" />
   </Folder>
 </Solution>
